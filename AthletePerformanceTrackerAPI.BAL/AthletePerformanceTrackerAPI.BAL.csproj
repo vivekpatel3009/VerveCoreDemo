@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Configgy.Microsoft.Extensions.Configuration" Version="1.0.3" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.7.0-preview4.19212.13" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
 </Project>
